@@ -1,6 +1,9 @@
 # Haunter-Asset-Pack
 Haunter Asset Pack for Flipper Zero
 
+
+![Escape](https://github.com/int0xmonkey/Haunter-Asset-Pack/assets/8340573/764ea6f6-fb67-4f5e-9344-417585b659be)
+
 ![Wanted](https://github.com/int0xmonkey/Haunter-Asset-Pack/assets/8340573/7116e0e5-7109-4831-b7c4-3dea15e88c52)
 ![TheMoon](https://github.com/int0xmonkey/Haunter-Asset-Pack/assets/8340573/75a0e779-ba70-44c2-a41b-d629a6be6be1)
 ![Spookeh](https://github.com/int0xmonkey/Haunter-Asset-Pack/assets/8340573/5fe70878-57d5-499d-a3c5-dfe9e9c1cc58)
